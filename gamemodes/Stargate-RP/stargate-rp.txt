@@ -1,0 +1,6 @@
+"stargate-rp"
+{
+    "base"          "base"
+    "title"         "Stargate-RP"
+    "menusystem"    "1"
+}
